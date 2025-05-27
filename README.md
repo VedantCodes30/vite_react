@@ -49,7 +49,6 @@ Before you begin, ensure you have the following installed on your system:
     ```
 
 3. **Configure Tailwind CSS:**
-    The project uses Tailwind CSS. Ensure its configuration is correctly set up. The necessary `postcss.config.js` and `tailwind.config.js` files are included, and the directives are in `src/index.css`.
 
     No manual steps are typically needed here if you cloned the project, as the configuration files and `src/index.css` should be in place. If you encounter issues, refer to the [Tailwind CSS with Vite documentation](https://tailwindcss.com/docs/guides/vite).
 
